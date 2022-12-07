@@ -1,9 +1,9 @@
 <p align="center"><a href="https://alila.id" target="_blank">PET DEALER WEB</a></p>
 
 <p align="center"> ||
-<a href="https://travis-ci.org/laravel/framework">Flutter Mobile App</a> ||
-<a href="https://packagist.org/packages/laravel/framework">REST API</a> ||
-<a href="https://packagist.org/packages/laravel/framework">Web Based Admin</a> ||
+<a href="https://github.com/anwarfuadi/pet_dealer_flutter.git">Flutter Mobile App</a> ||
+<a href="https://github.com/anwarfuadi/pet_dealer_web.git">REST API</a> ||
+<a href="https://github.com/anwarfuadi/pet_dealer_web.git">Web Based Admin</a> ||
 </p>
 
 ## INSTALASI
